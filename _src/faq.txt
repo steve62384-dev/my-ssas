@@ -1,0 +1,456 @@
+# What a SSAS is | what-a-ssas-is
+
+## What is a SSAS?
+A SSAS is a pension scheme set up by an employer. The employer is usually a company owned and run by its directors. The law calls this an occupational pension scheme. The members can decide how the money is invested, within HMRC's rules. Once HMRC registers it, it gets the pension tax reliefs.
+SRC: Law | Finance Act 2004, s.150(5) | https://www.legislation.gov.uk/ukpga/2004/12/section/150
+SRC: HMRC | PTM121000: investments, essential principles | https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm121000
+SRC: HMRC | PTM031100: registration | https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm031100
+
+## What does SSAS stand for?
+SSAS stands for small self-administered scheme. The name comes from tax rules made in 1991. They covered schemes that put at least some of their money outside insurance policies. Where a member was connected with another member, a trustee or the employer, the scheme had to have fewer than 12 members. Those old approval rules ended on 6 April 2006. Today's tax law does not define a SSAS, although the FCA still uses the term.
+SRC: Law | SI 1991/1614, reg 2(1) | https://www.legislation.gov.uk/uksi/1991/1614/made
+SRC: Law | Income and Corporation Taxes Act 1988, s.591, repealed from 6 April 2006 | https://www.legislation.gov.uk/ukpga/1988/1/section/591
+SRC: FCA | Glossary: small self-administered scheme | https://handbook.fca.org.uk/glossary/G1100
+
+## Is a SSAS an occupational pension scheme?
+Yes. Both the tax law and the pensions law treat it as one. That is because an employer sets it up to provide pensions for people who work for it. The Pensions Regulator oversees the scheme under pensions law. FCA rules can still apply to separate services, such as investment advice or pension transfer advice.
+SRC: Law | Finance Act 2004, s.150(5) | https://www.legislation.gov.uk/ukpga/2004/12/section/150
+SRC: Law | Pension Schemes Act 1993, s.1 | https://www.legislation.gov.uk/ukpga/1993/48/section/1
+SRC: TPR | About us | https://www.thepensionsregulator.gov.uk/en/about-us
+SRC: FCA | Glossary: establishing, operating or winding up a personal pension scheme | https://handbook.fca.org.uk/glossary/G1866
+
+## Who can set one up?
+An employer sets up a SSAS. For most people reading this, that is their own company. The scheme administrator then applies online to HMRC to register it. HMRC can ask questions, and it can refuse. For example, it can refuse if a sponsoring employer has been dormant for a whole month in a row during the year before HMRC decides.
+SRC: HMRC | PTM022000: types of pension scheme | https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm022000
+SRC: HMRC | PTM032100: applying to register | https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm032100
+SRC: HMRC | PTM032200: HMRC's decision | https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm032200
+SRC: Law | Finance Act 2004, s.153(5) | https://www.legislation.gov.uk/ukpga/2004/12/section/153
+
+## Does a SSAS need a sponsoring employer?
+Yes. A SSAS is set up by an employer. Any employer that sets up or joins the scheme is called a sponsoring employer. If a sponsoring employer is a dormant company, HMRC can refuse to register the SSAS. It can also take an existing registration away.
+SRC: Law | Finance Act 2004, s.150(5) and (6) | https://www.legislation.gov.uk/ukpga/2004/12/section/150
+SRC: HMRC | PTM022000: types of pension scheme | https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm022000
+SRC: HMRC | PTM032200: HMRC's decision | https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm032200
+SRC: HMRC | PTM033200: de-registration | https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm033200
+
+## Can I set up a SSAS if I am the only director?
+Yes. A SSAS can have just one member. A one-member SSAS does not have to register with The Pensions Regulator. It still needs HMRC registration to get the tax reliefs. Some pension law rules do not apply to a one-member scheme, such as having a scheme actuary or meeting the scheme funding rules.
+SRC: TPR | Register a pension scheme | https://www.thepensionsregulator.gov.uk/en/trustees/submit-reports-payments-and-requests-to-us/register-a-pension-scheme
+SRC: Law | SI 1996/1715, reg 3(1)(f) and 3(2) | https://www.legislation.gov.uk/uksi/1996/1715/regulation/3
+SRC: Law | SI 2005/3377, reg 17(1)(g) | https://www.legislation.gov.uk/uksi/2005/3377/regulation/17
+
+## How many members can a SSAS have?
+Tax law sets no overall top limit, but 12 is the number that matters. The FCA's description of a SSAS run by its members covers no more than 12 relevant members. And fewer than 12 is the key number for several small-scheme exemptions. If every member is a trustee, and the trustees decide everything together or have an independent trustee, the scheme can be let off some rules. These include having an auditor, the scheme funding rules, and the pension law limits on investing in the employer. HMRC's tax rules still apply.
+SRC: Law | SI 1996/1715, reg 3(1)(h) | https://www.legislation.gov.uk/uksi/1996/1715/regulation/3
+SRC: Law | SI 2005/3377, reg 17(1)(h) and (i) | https://www.legislation.gov.uk/uksi/2005/3377/regulation/17
+SRC: Law | SI 2005/3378, regs 1(2) and 12(1) | https://www.legislation.gov.uk/uksi/2005/3378/regulation/12
+SRC: FCA | PERG 10.3.20G: small self-administered schemes | https://www.handbook.fca.org.uk/handbook/PERG/10/?view=chapter
+
+## Who can be a member?
+It depends on the scheme's own rules. A SSAS is set up to give pensions to people who work for the company. But the law also lets it pay benefits to other people. Members can live anywhere. Tax relief on a member's own payments depends on being a relevant UK individual, such as someone with UK earnings. A member who is not a trustee can mean the scheme loses some small-scheme exemptions.
+SRC: Law | Finance Act 2004, s.150(5) | https://www.legislation.gov.uk/ukpga/2004/12/section/150
+SRC: Law | Finance Act 2004, s.189 | https://www.legislation.gov.uk/ukpga/2004/12/section/189
+SRC: HMRC | PTM022000: types of pension scheme | https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm022000
+SRC: HMRC | PTM114000: membership | https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm114000
+
+## Can my family be members?
+Yes, if the scheme's rules allow it. But check the tax first. Your company might pay into the SSAS for a family member who does not work for it. If it does so because of a director's or employee's job, the payment is normally taxed on that director or employee. The company normally pays Class 1A National Insurance on it too. If the family member does work for the company, the payment can count as an employer contribution for them. Their pay and pension together should still be fair for the work they do.
+SRC: Law | Finance Act 2004, s.150(5) | https://www.legislation.gov.uk/ukpga/2004/12/section/150
+SRC: Law | Income Tax (Earnings and Pensions) Act 2003, s.308 | https://www.legislation.gov.uk/ukpga/2003/1/section/308
+SRC: HMRC | Family pension plans: tax information and impact note | https://assets.publishing.service.gov.uk/media/5a7b4d9de5274a34770eac83/exemption_from_income_tax_of_contributions_to_pension_schemes.pdf.pdf
+SRC: HMRC | BIM46035: company pension contributions | https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim46035
+SRC: HMRC | EIM01570: employer's contributions | https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim01570
+SRC: HMRC | NIM13130: Class 1A on benefits for family or household members | https://www.gov.uk/hmrc-internal-manuals/national-insurance-manual/nim13130
+SRC: Law | Social Security Contributions and Benefits Act 1992, s.10 | https://www.legislation.gov.uk/ukpga/1992/4/section/10
+
+## Can several directors put their pensions into one SSAS?
+Yes. One SSAS can have several members, such as all the directors. For tax purposes, each member has one or more arrangements in the scheme. In a money purchase arrangement, the member's benefits depend on the pot built up for them. A SSAS with more than one member must register with The Pensions Regulator within three months.
+SRC: HMRC | PTM023100: arrangements | https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm023100
+SRC: HMRC | PTM023300: money purchase arrangements | https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm023300
+SRC: TPR | Register a pension scheme | https://www.thepensionsregulator.gov.uk/en/trustees/submit-reports-payments-and-requests-to-us/register-a-pension-scheme
+
+## Is the SSAS dying out?
+The official figures do not show that. In June 2026 the government said there are around 60,000 SSAS savers across 21,000 schemes. The Pensions Regulator counted 21,260 relevant small schemes in 2025. That is its name for schemes of this kind. It said the number has stayed broadly the same since 2015.
+SRC: DWP | Protecting pension savers: options assessment, 9 June 2026, section 2 | https://www.gov.uk/government/consultations/protecting-pension-savers-proposals-to-amend-the-occupational-and-personal-pension-schemes-conditions-for-transfers-regulations-2021/options-assessment
+SRC: TPR | Occupational defined contribution landscape 2025 | https://www.thepensionsregulator.gov.uk/document-library/research-and-analysis/occupational-defined-contribution-landscape-2025
+
+# Who runs a SSAS | who-runs-a-ssas
+
+## What is the difference between a trustee, a scheme administrator and a practitioner?
+The trustees hold the scheme's money and assets on trust for the members. The scheme administrator is the person or firm responsible for the pension tax rules and for dealing with HMRC. HMRC uses the word practitioner for someone who acts for the scheme administrator on HMRC's online service, such as an accountant. In the SSAS world, practitioner often just means the specialist firm that helps run the scheme. That is not a legal term.
+SRC: TPR | Trustee guidance | https://www.thepensionsregulator.gov.uk/en/document-library/scheme-management-detailed-guidance/governing-body-detailed-guidance/trustee-guidance
+SRC: Law | Finance Act 2004, s.270 | https://www.legislation.gov.uk/ukpga/2004/12/section/270
+SRC: HMRC | PTM151000: the scheme administrator | https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm151000
+SRC: HMRC | PTM157000: practitioners | https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm157000
+
+## Do I need a professional trustee?
+There is no general rule that every SSAS must have a professional trustee. Before 6 April 2006, the Inland Revenue would only approve a SSAS if one trustee was a pensioneer trustee it had approved. That blanket rule ended in 2006. The Pensions Regulator can still appoint a trustee in special cases. An independent trustee is also one way to qualify for some small-scheme exemptions. The other way is for the member trustees to decide everything together. Some SSAS firms will only run a scheme if they are a trustee too.
+SRC: Law | SI 1991/1614, reg 9 | https://www.legislation.gov.uk/uksi/1991/1614/made
+SRC: Law | Income and Corporation Taxes Act 1988, s.591, repealed from 6 April 2006 | https://www.legislation.gov.uk/ukpga/1988/1/section/591
+SRC: HMRC | PTM031300: schemes registered on 6 April 2006 | https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm031300
+SRC: Law | SI 2005/3377, reg 17(1)(h) | https://www.legislation.gov.uk/uksi/2005/3377/regulation/17
+SRC: Provider evidence | SSAS provider fees compared, 2026 | /ssas-pension-table-showing-best-ssas-providers/
+SRC: Law | Pensions Act 1995, s.7 | https://www.legislation.gov.uk/ukpga/1995/26/section/7
+
+## Can I run a SSAS without a professional SSAS provider?
+Yes, the law allows it. The scheme administrator can be one or more individuals. So the member trustees can take on the role themselves. Since 6 April 2026 a scheme administrator must be UK resident. They must also make declarations to HMRC and be fit and proper. HMRC may decide someone is not fit and proper if they lack enough knowledge of pensions tax law and do not use an adviser who has it.
+SRC: HMRC | Register as a pension scheme administrator | https://www.gov.uk/guidance/pension-administrators-register-as-an-administrator
+SRC: Law | Finance Act 2004, s.270 | https://www.legislation.gov.uk/ukpga/2004/12/section/270
+SRC: HMRC | PTM151000: the scheme administrator | https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm151000
+SRC: HMRC | PTM153000: fit and proper person | https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm153000
+
+## Are SSAS trustees personally liable if something goes wrong?
+Yes, they can be. A trustee can have to pay personally for a loss caused by their own breach of trust, and more than one trustee can be liable for the same loss. The trust deed cannot remove liability for failing to take proper care with investments. Some fines and penalties on a trustee cannot be paid from the scheme's money. A trustee who is also the scheme administrator can be liable for tax charges too, such as the scheme sanction charge.
+SRC: TPR | Trustee toolkit, tutorial 5: trustee liabilities and protections | https://trusteetoolkit.thepensionsregulator.gov.uk/pluginfile.php/133/mod_data/content/2375/The%20trustees%20role%20-%20Tutorial%205%20Trustee%20liabilities%20and%20protections.pdf
+SRC: Law | Pensions Act 1995, s.33(1) | https://www.legislation.gov.uk/ukpga/1995/26/section/33
+SRC: TPR | Monetary penalties policy | https://www.thepensionsregulator.gov.uk/en/document-library/regulatory-and-enforcement-policies/monetary-penalties-policy
+SRC: HMRC | PTM135300: scheme sanction charge | https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm135300
+SRC: HMRC | PTM151000: the scheme administrator | https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm151000
+SRC: Law | Pensions Act 2004, s.256 | https://www.legislation.gov.uk/ukpga/2004/35/section/256
+SRC: Law | Finance Act 2004, s.239 | https://www.legislation.gov.uk/ukpga/2004/12/section/239
+
+## Who regulates a SSAS?
+The Pensions Regulator regulates workplace pension schemes, including SSASs. HMRC registers them and runs the pension tax rules. Running a SSAS is not an FCA-regulated activity in the way running a personal pension is. But FCA rules still apply to separate services, such as managing investments, financial advice and pension transfer advice. Complaints about how a SSAS is run can go to the Pensions Ombudsman. Complaints about financial advice go to the Financial Ombudsman Service.
+SRC: TPR | About us | https://www.thepensionsregulator.gov.uk/en/about-us
+SRC: FCA | Glossary: regulated activity | https://handbook.fca.org.uk/glossary/G974
+SRC: Ombudsman | The Pensions Ombudsman: what we can and cannot do | https://www.pensions-ombudsman.org.uk/what-we-can-and-cannot-do
+SRC: FCA | Glossary: establishing, operating or winding up a personal pension scheme | https://handbook.fca.org.uk/glossary/G1866
+
+## Is a SSAS protected by the FSCS?
+The scheme itself is not protected if it fails. But cash a SSAS holds in a UK bank can be protected. For a money purchase SSAS, the FSCS can treat each eligible member separately, up to £120,000 per member per banking licence. A member's own savings at the same bank count towards the same limit. If a regulated adviser gave bad pension advice and has since failed, the FSCS may pay up to £85,000.
+SRC: FSCS | Pensions | https://www.fscs.org.uk/what-we-cover/pensions/
+SRC: FSCS | Deposit protection: questions and answers for banks | https://www.fscs.org.uk/industry-resources/deposit-protection-banks/
+SRC: FSCS | Deposit limit | https://www.fscs.org.uk/what-we-cover/banks-building-societies-credit-unions/deposit-limit/
+SRC: PRA | Supervisory statement SS18/15, depositor protection, Table A | https://www.bankofengland.co.uk/-/media/boe/files/prudential-regulation/supervisory-statement/2025/ss1815-november-2025
+SRC: PRA | PRA Rulebook: Depositor Protection, rule 6.4 | https://www.prarulebook.co.uk/pra-rules/depositor-protection
+
+## What happens to my SSAS if the provider or administrator goes bust?
+A SSAS's money and assets are held on trust by its trustees. They do not belong to the firm that does the paperwork. Hartley Pensions went into administration on 29 July 2022. The FCA said the pension assets were held by trustee firms that had not gone bust. But moving to a new administrator can be slow and costly. In July 2026, four years on, Hartley's administrators were still working on a sale or transfer of the SSAS business. They said they needed a court order before they could make clients pay a fee to transfer. Until then, clients could move early if they agreed to pay a fee that would not be refunded.
+SRC: FCA | Hartley Pensions Limited enters administration | https://www.fca.org.uk/news/news-stories/hartley-pensions-limited-enters-administration
+SRC: Administrators | UHY Hacker Young: Hartley Pensions Limited | https://www.uhy-uk.com/hartley-pensions-limited-administration
+SRC: Administrators | Progress report, 29 January to 28 July 2026 | https://www.uhy-uk.com/sites/default/files/2026-08/Administrators%20progress%20report%20-%20JULY%202026.pdf
+SRC: FSCS | Pensions | https://www.fscs.org.uk/what-we-cover/pensions/
+
+## Does a final salary SSAS need an actuary?
+Usually, yes. Pension law says every occupational pension scheme must appoint an actuary, unless regulations exempt it. Money purchase schemes are exempt. So are schemes with fewer than 2 members. So a final salary (defined benefit) SSAS with 2 or more members must appoint an actuary. That is so even though it can be let off the auditor and the scheme funding rules. A one-member final salary SSAS is exempt from all three.
+SRC: Law | Pensions Act 1995, s.47(1)(b) and (5) | https://www.legislation.gov.uk/ukpga/1995/26/section/47
+SRC: Law | SI 1996/1715, reg 3(1)(f), 3(1)(h) and 3(2) | https://www.legislation.gov.uk/uksi/1996/1715/regulation/3
+SRC: Law | SI 2005/3377, reg 17(1)(g) and (h) | https://www.legislation.gov.uk/uksi/2005/3377/regulation/17
+
+# SSAS or SIPP | ssas-or-sipp
+NOTE: This is information only. Nothing on this page recommends moving a pension.
+
+## What is the difference between a SSAS and a SIPP?
+A SIPP is a personal pension, and the firm that runs it needs FCA permission. A SSAS is an occupational pension scheme that a company sets up. Its members are usually its trustees, so they run it together. Both can buy commercial property. A SSAS can also use the special tax rules that allow a loan to its sponsoring employer. A SIPP has no sponsoring employer. If a SIPP lends to a company connected with its member, the loan is an unauthorised payment.
+SRC: FCA | Glossary: establishing, operating or winding up a personal pension scheme | https://handbook.fca.org.uk/glossary/G1866
+SRC: FCA | PERG 12.2 | https://handbook.fca.org.uk/handbook/perg12/perg12s2
+SRC: DWP | Protecting pension savers: options assessment, section 2 | https://www.gov.uk/government/consultations/protecting-pension-savers-proposals-to-amend-the-occupational-and-personal-pension-schemes-conditions-for-transfers-regulations-2021/options-assessment
+SRC: HMRC | PTM123100: loans, general principles | https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm123100
+SRC: HMRC | PTM123200: loans to sponsoring employers | https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm123200
+SRC: Law | Finance Act 2004, s.161(5) | https://www.legislation.gov.uk/ukpga/2004/12/section/161
+SRC: HMRC | PTM123300: loans to members and connected parties | https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm123300
+
+## Can I move a SIPP into a SSAS?
+The law allows money to move from one registered pension scheme to another. This is called a recognised transfer, and it can be cash or other assets. Before the money goes, the SIPP firm must run the legal scam checks. For a transfer to an occupational scheme such as a SSAS, you normally need to show a job link with its employer. The evidence is normally a letter from the employer, a schedule of contributions, and three months of payslips or similar salary evidence. A red flag means the transfer cannot go ahead under these rules. An amber flag means you must first have a safeguarding guidance session with MoneyHelper.
+SRC: HMRC | PTM100010: transfers | https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm100010
+SRC: Law | SI 2021/1237, regs 8, 9 and 11 | https://www.legislation.gov.uk/uksi/2021/1237/contents
+SRC: TPR | Dealing with transfer requests | https://www.thepensionsregulator.gov.uk/en/document-library/scheme-management-detailed-guidance/administration-detailed-guidance/dealing-with-transfer-requests
+
+## Can I move a SSAS into a SIPP?
+Yes. A SIPP is also a registered pension scheme, so this can be a recognised transfer. Assets the SSAS owns, such as business property, can move across as they are (in specie), if the SIPP firm accepts them. Or they can be sold first and the cash moved. An outstanding loanback is different. It does not have to be repaid just because one member transfers. But the loan cannot move into a SIPP if the borrowing company is connected with that member, because that would be an unauthorised payment. If the SSAS carries on, the loan can stay as one of its assets, if its rules and the transfer values allow. If the SSAS is being wound up, the loan must be repaid or dealt with before the last assets leave.
+SRC: HMRC | PTM100010: transfers | https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm100010
+SRC: HMRC | PTM123200: loans to sponsoring employers | https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm123200
+SRC: TPR | Dealing with transfer requests | https://www.thepensionsregulator.gov.uk/en/document-library/scheme-management-detailed-guidance/administration-detailed-guidance/dealing-with-transfer-requests
+SRC: Law | Finance Act 2004, s.161(5) | https://www.legislation.gov.uk/ukpga/2004/12/section/161
+SRC: HMRC | PTM123300: loans to members and connected parties | https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm123300
+
+# Money in | money-in
+
+## How much can be paid in each year?
+For 2026/27 the standard annual allowance is £60,000 across all your pensions. For a money purchase pension, like most SSASs, it counts what you, your company and anyone else pay in during the year. Above it, a tax charge may apply. Tax relief on your own payments is normally limited to your UK earnings, or £3,600 if that is more. Your company's payments are not capped by your salary. But the annual allowance and the corporation tax rules still apply.
+The allowance is lower if your threshold income is over £200,000 and your adjusted income is over £260,000. It never goes below £10,000. It is also £10,000 for money purchase savings once you have taken money flexibly from a pension.
+SRC: Law | Finance Act 2004, ss.190, 228 and 228ZA | https://www.legislation.gov.uk/ukpga/2004/12/section/228
+SRC: HMRC | Rates and allowances: pension schemes | https://www.gov.uk/government/publications/rates-and-allowances-pension-schemes/pension-schemes-rates
+SRC: HMRC | Tax on your private pension contributions: annual allowance | https://www.gov.uk/tax-on-your-private-pension/annual-allowance
+SRC: HMRC | PTM044100: tax relief for members | https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm044100
+SRC: HMRC | PTM057100: tapered annual allowance | https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm057100
+SRC: HMRC | PTM056510: money purchase annual allowance | https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm056510
+SRC: HMRC | BIM46035: company pension contributions | https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim46035
+SRC: Law | Finance Act 2004, ss.188 and 189 | https://www.legislation.gov.uk/ukpga/2004/12/section/188
+
+## What is carry forward?
+Carry forward lets you add annual allowance you did not use in the last 3 tax years to this year's allowance. You must have been a member of a registered pension scheme at some time in each of those years. It does not matter if nothing was paid in. This year's allowance is used first, then the spare allowance from the oldest year. Carry forward cannot be added to the £10,000 money purchase annual allowance.
+SRC: Law | Finance Act 2004, s.228A | https://www.legislation.gov.uk/ukpga/2004/12/section/228A
+SRC: HMRC | PTM055100: carry forward | https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm055100
+
+## Does my company get corporation tax relief?
+Usually, yes. Your company can deduct its pension payments from its profits. It gets the relief for the accounting period in which it actually pays them. HMRC accepts this unless there is a non-business reason for the payment. One example is a director's total pay being too high for the work they do.
+Very large increases can be spread. This happens if this period's payments are more than 2.1 times the last period's. HMRC then works out the excess over 1.1 times the last period's payments. If that excess is £500,000 or more, the relief on it is spread over 2, 3 or 4 years. Giving the scheme an asset instead of money is not normally a contribution that gets relief. HMRC accepts a cash contribution settled by selling an asset to the scheme at market value only if the debt, the sale and the set-off are each agreed and recorded at the time.
+SRC: Law | Finance Act 2004, ss.196 and 197 | https://www.legislation.gov.uk/ukpga/2004/12/section/196
+SRC: Law | Corporation Tax Act 2009, s.54 | https://www.legislation.gov.uk/ukpga/2009/4/section/54
+SRC: HMRC | PTM043200: relief for employers | https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm043200
+SRC: HMRC | PTM043400: spreading | https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm043400
+SRC: HMRC | BIM46035: company pension contributions | https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim46035
+SRC: HMRC | PTM042100: paying contributions with assets | https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm042100
+
+## Can I move my old pensions into a SSAS?
+The law allows money to move from one registered pension scheme to another. A SSAS can accept it if its rules allow. Before your old scheme lets the money go, it must run the scam checks in the 2021 transfer rules. These include proof that you have a real link to the SSAS's employer. Some transfer advice is regulated by the FCA, especially advice about final salary pensions. Anyone giving regulated investment advice must have the right FCA permission. Moving can mean losing valuable benefits or guarantees in your old scheme.
+SRC: HMRC | PTM100010: transfers | https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm100010
+SRC: Law | SI 2021/1237 | https://www.legislation.gov.uk/uksi/2021/1237/contents
+SRC: TPR | Dealing with transfer requests | https://www.thepensionsregulator.gov.uk/en/document-library/scheme-management-detailed-guidance/administration-detailed-guidance/dealing-with-transfer-requests
+SRC: MoneyHelper | SSAS pensions explained | https://www.moneyhelper.org.uk/en/pensions-and-retirement/pensions-basics/defined-contribution-small-self-administered-pension-schemes
+SRC: MoneyHelper | Self-invested personal pensions | https://www.moneyhelper.org.uk/en/pensions-and-retirement/pensions-basics/self-invested-personal-pensions
+
+## Can I move a final salary pension into a SSAS?
+A final salary pension promises a set income. The law calls this a safeguarded benefit. If it is worth more than £30,000, the old scheme's trustees must check you have had advice from an authorised independent adviser. They must check this before they move it. The adviser's firm must have the FCA permission for advising on pension transfers. FCA rules tell advisers to start by assuming a transfer will not be suitable. This site does not give advice on pension transfers.
+SRC: Law | Pension Schemes Act 2015, s.48 | https://www.legislation.gov.uk/ukpga/2015/8/section/48
+SRC: Law | SI 2015/742, regs 5 and 11 | https://www.legislation.gov.uk/uksi/2015/742/contents
+SRC: FCA | Glossary: advising on conversion or transfer of pension benefits | https://handbook.fca.org.uk/glossary/G3542a
+SRC: FCA | COBS 19.1.6G | https://handbook.fca.org.uk/handbook/cobs19/cobs19s1
+SRC: TPR | DB to DC transfers and conversions | https://www.thepensionsregulator.gov.uk/en/document-library/scheme-management-detailed-guidance/administration-detailed-guidance/db-to-dc-transfers-and-conversions
+
+## Why does the government want a new red flag for transfers into a SSAS?
+Because it is worried that fraudsters misuse SSASs. On 9 June 2026 the Department for Work and Pensions (DWP) asked for views on a new red flag. If you could not show a real job link with the SSAS's employer, the transfer would be stopped. The DWP says there are on average over 100 transfers into SSASs a year. It says up to 1 in 10 could be fraud.
+It also says pension fraud victims lost £18,400 on average in 2024/25. Where an investment was the main vehicle for the fraud, the average was £38,400. The consultation closed on 21 July 2026. By 5 October 2026 the government had not published its response. So this is a proposal, not yet law.
+SRC: DWP | Protecting pension savers: consultation, 9 June 2026 | https://www.gov.uk/government/consultations/protecting-pension-savers-proposals-to-amend-the-occupational-and-personal-pension-schemes-conditions-for-transfers-regulations-2021
+SRC: DWP | Protecting pension savers: options assessment, sections 2 and 4 | https://www.gov.uk/government/consultations/protecting-pension-savers-proposals-to-amend-the-occupational-and-personal-pension-schemes-conditions-for-transfers-regulations-2021/options-assessment
+SRC: DWP | Government crack down on pension scams, 9 June 2026 | https://www.gov.uk/government/news/government-crack-down-on-pension-scams
+
+# What a SSAS can do | what-a-ssas-can-do
+
+## What can a SSAS invest in?
+HMRC's tax rules do not limit the kinds of asset a SSAS can buy. But some bring heavy tax charges. These are homes, and physical things you can move, such as art, antiques or classic cars. Pension law also gives the trustees duties. Before most investments, even in a small SSAS, they must get and consider proper advice, given or confirmed in writing. They must also think about spreading the risk where appropriate.
+SRC: HMRC | PTM121000: investments, essential principles | https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm121000
+SRC: HMRC | PTM125100: tangible moveable property | https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm125100
+SRC: Law | Pensions Act 1995, s.36(3), (6) and (7) | https://www.legislation.gov.uk/ukpga/1995/26/section/36
+SRC: Law | SI 2005/3378, reg 7 | https://www.legislation.gov.uk/uksi/2005/3378/regulation/7
+
+## Can my SSAS buy my business premises?
+Yes. A SSAS can buy commercial property, such as an office, shop, factory or warehouse. That includes the building your company uses. Commercial property is not taxable property, so the heavy charges for homes do not apply. The SSAS might buy from you, your company or anyone connected with you. If so, it must pay the price an unconnected buyer would pay.
+SRC: HMRC | PTM121000: investments, essential principles | https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm121000
+SRC: Law | Finance Act 2004, Sch 29A | https://www.legislation.gov.uk/ukpga/2004/12/schedule/29A
+
+## Can my SSAS buy the premises from me?
+Yes, but only at full market value. If the SSAS pays you more than the property is worth, HMRC treats the extra as an unauthorised payment and taxes it. The same applies if the SSAS later sells to you or your company for less than it is worth. Stamp duty land tax, or the Scottish or Welsh version, is due in the normal way.
+SRC: HMRC | PTM121000: investments, essential principles | https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm121000
+SRC: HMRC | PTM133700: value shifting | https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm133700
+SRC: GOV.UK | Stamp Duty Land Tax: non-residential and mixed rates | https://www.gov.uk/stamp-duty-land-tax/nonresidential-and-mixed-rates
+SRC: GOV.UK | Stamp Duty Land Tax | https://www.gov.uk/stamp-duty-land-tax
+
+## Can my company pay rent to my SSAS?
+Yes. Your company can rent a building the SSAS owns, but it must pay the full commercial rent. If it pays less, HMRC taxes the shortfall as an unauthorised payment. Rent that is left unpaid can be treated as a loan to the company, if it is not collected on normal terms. A loan to the company must meet strict rules. So the SSAS must collect the rent like any other landlord, with no special treatment for the company.
+SRC: HMRC | PTM121000: investments, essential principles | https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm121000
+SRC: HMRC | PTM123100: loans, general principles | https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm123100
+SRC: Law | Finance Act 2004, s.162 | https://www.legislation.gov.uk/ukpga/2004/12/section/162
+
+## Does a SSAS-owned property need an EPC rating?
+Usually, yes. A commercial building needs an Energy Performance Certificate (EPC) when it is sold or let. An EPC lasts 10 years. In England and Wales, a landlord must not let a commercial building rated below E, unless a valid exemption is registered. Since 1 April 2023 this covers existing lettings too. The SSAS trustees own the building, so they are the landlord.
+The government plans that from 2031, rented buildings over 1,000 square metres must reach B where cost effective. That still needs new law. Its earlier plan for a C rating by 2027 has been dropped. Scotland and Northern Ireland have their own rules.
+SRC: GOV.UK | Energy Performance Certificates for your business premises | https://www.gov.uk/energy-performance-certificate-commercial-property
+SRC: GOV.UK | Non-domestic private rented property: minimum energy efficiency standard, landlord guidance | https://www.gov.uk/guidance/non-domestic-private-rented-property-minimum-energy-efficiency-standard-landlord-guidance
+SRC: GOV.UK | Minimum energy efficiency standards in the non-domestic private rented sector: interim response, 18 June 2026 | https://www.gov.uk/government/consultations/non-domestic-private-rented-sector-minimum-energy-efficiency-standards-epc-b-implementation/outcome/minimum-energy-efficiency-standards-mees-in-the-non-domestic-private-rented-sector-interim-response
+SRC: Law | SI 2015/962 | https://www.legislation.gov.uk/uksi/2015/962/contents
+
+## Can a SSAS buy land and develop commercial property?
+In principle, yes. The tax rules do not stop a SSAS buying land, or putting up a commercial building to rent out. But if it builds in order to sell at a profit, HMRC may see that as trading. Trading profits do not get the pension scheme tax exemptions. Homes are a bigger risk. Once a new or converted building is ready to live in while the SSAS owns it, it counts as residential property. Then the heavy charges apply.
+SRC: HMRC | PTM121000: investments, essential principles | https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm121000
+SRC: HMRC | BIM20205: badges of trade | https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim20205
+SRC: HMRC | PTM125200: residential property | https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm125200
+
+## Can a SSAS own residential property?
+It can, but homes are taxable property and the tax charges are heavy. The member can face a 40% charge, with a possible 15% surcharge. The scheme faces a scheme sanction charge. There are also yearly charges while the scheme holds the home, and a charge on any gain.
+Some buildings do not count as homes, such as qualifying care homes, student halls, hospitals and a whole hotel. Some homes linked to a job or to business premises can also be left out, but strict conditions apply. For example, the person living there must not be a member or connected with one. For a flat for an employee, the employee must not be connected with the employer either.
+SRC: Law | Finance Act 2004, s.174A | https://www.legislation.gov.uk/ukpga/2004/12/section/174A
+SRC: Law | Finance Act 2004, Sch 29A, paras 7, 8 and 10 | https://www.legislation.gov.uk/ukpga/2004/12/schedule/29A
+SRC: HMRC | PTM125200: residential property | https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm125200
+SRC: HMRC | PTM125300: direct holdings of taxable property | https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm125300
+
+## Can my SSAS borrow?
+Yes. A SSAS can borrow up to 50% of its net value just before the new borrowing. Any borrowing it already has counts towards that limit. In a money purchase SSAS, the test is worked out for each member's arrangement. HMRC lets it borrow for any purpose the trustees are satisfied will benefit the scheme. If new borrowing takes the scheme over the limit, the excess normally faces a 40% scheme sanction charge. If existing borrowing was already over the limit, the whole of the new borrowing can be charged. Pension law's own limit on borrowing does not apply to schemes with fewer than 100 members.
+SRC: Law | Finance Act 2004, ss.182 to 185 | https://www.legislation.gov.uk/ukpga/2004/12/section/182
+SRC: HMRC | PTM124000: borrowing | https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm124000
+SRC: Law | SI 2005/3378, reg 7(1) | https://www.legislation.gov.uk/uksi/2005/3378/regulation/7
+SRC: Law | Finance Act 2004, s.241 | https://www.legislation.gov.uk/ukpga/2004/12/section/241
+
+## Can my SSAS lend money to my company?
+Yes, if your company is a sponsoring employer and the loan meets HMRC's strict rules (see <a href="#what-are-the-loanback-rules">the loanback rules</a>). The SSAS cannot lend to you, to any other member, or to anyone connected with a member. Pension law also bans loans to the employer unless the SSAS meets the small scheme conditions. That means fewer than 12 members, all of them trustees (or directors of a company that is the only trustee). The trustees must also decide everything together, or have the required independent trustee.
+SRC: Law | Finance Act 2004, s.179 | https://www.legislation.gov.uk/ukpga/2004/12/section/179
+SRC: Law | SI 2005/3378, regs 1(2) and 12 | https://www.legislation.gov.uk/uksi/2005/3378/regulation/12
+SRC: HMRC | PTM123200: loans to sponsoring employers | https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm123200
+SRC: HMRC | PTM123300: loans to members and connected parties | https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm123300
+
+## What are the loanback rules?
+A loan to a sponsoring employer can be no more than 50% of the cash and market value of the scheme's assets just before it is made. It must be secured by a first charge for its whole term. When the loan is made, the asset charged must be worth at least the loan plus interest. Interest must be at least 1% above the average base rate of six named banks. That average is first rounded up to the next 0.25%. The loan must be repaid within five years. By the end of each loan year, at least a minimum total of capital and interest must have been repaid. Equal yearly amounts meet this, and paying more early is fine too. HMRC's guidance does not say what the company may spend the money on. But every loan must be a genuine investment: prudent, secure and commercial.
+SRC: Law | Finance Act 2004, s.179 and Sch 30 | https://www.legislation.gov.uk/ukpga/2004/12/section/179
+SRC: Law | SI 2005/3449 | https://www.legislation.gov.uk/uksi/2005/3449/contents
+SRC: HMRC | PTM123200: loans to sponsoring employers | https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm123200
+SRC: HMRC | PTM123100: loans, general principles | https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm123100
+
+## What happens if a loanback is not repaid?
+Sometimes a company is in genuine difficulty and money is still owed when the loan ends. Then the loan can be rolled over once, for up to five more years, and the existing security can carry on. A loan rolled over more than once falls under the unauthorised payment rules. In HMRC's own example the company pays a 40% charge. The scheme administrator can also face a scheme sanction charge of 15% to 40%. The trustees must chase the debt as any other creditor would, using the security if needed.
+SRC: HMRC | PTM123200: loans to sponsoring employers | https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm123200
+SRC: HMRC | PTM123100: loans, general principles | https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm123100
+SRC: HMRC | Rates and allowances: pension schemes | https://www.gov.uk/government/publications/rates-and-allowances-pension-schemes/pension-schemes-rates
+
+## Can my SSAS lend to somebody else's company?
+Yes. Any registered pension scheme may lend to someone who is not connected with it, on genuine commercial terms. The loan should be a genuine investment: prudent, secure and commercial. A loan to a member, or to someone connected with a member, is normally an unauthorised payment. Connected is a wide idea. It includes close relatives, husbands, wives and civil partners and their relatives, and companies any of them control. A loan to someone connected only with a sponsoring employer counts as a loan to that employer, so it must meet the loanback rules.
+SRC: HMRC | PTM123100: loans, general principles | https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm123100
+SRC: HMRC | PTM027000: connected persons | https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm027000
+SRC: HMRC | PTM123300: loans to members and connected parties | https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm123300
+SRC: Law | Finance Act 2004, s.161 | https://www.legislation.gov.uk/ukpga/2004/12/section/161
+SRC: HMRC | PTM123200: loans to sponsoring employers | https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm123200
+
+## Can my SSAS buy shares in my company?
+Yes, within a limit. When the SSAS buys them, the shares must be worth less than 5% of the SSAS's net assets. With several sponsoring employers, the total must be under 20%, and under 5% in any one. If a limit is broken, the company pays a 40% tax charge. The scheme faces a scheme sanction charge. Pension law has its own 5% limit, but it does not apply to a small scheme. And if your company owns a home, the SSAS can be treated as owning part of it. That brings the taxable property charges.
+SRC: HMRC | PTM122000: shares and equities | https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm122000
+SRC: HMRC | PTM125400: indirect holdings of taxable property | https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm125400
+SRC: Law | SI 2005/3378, reg 12 | https://www.legislation.gov.uk/uksi/2005/3378/regulation/12
+SRC: Law | Finance Act 2004, Sch 29A | https://www.legislation.gov.uk/ukpga/2004/12/schedule/29A
+SRC: Law | Finance Act 2004, s.180(5) | https://www.legislation.gov.uk/ukpga/2004/12/section/180
+
+## Can a SSAS buy shares in an unquoted company?
+Yes. HMRC says pension schemes can buy shares whether or not they are quoted on a stock exchange. The seller might be a member, the employer or someone connected with them. If so, the price must be what an unconnected buyer would pay. If the company owns homes, the SSAS can be treated as owning part of them. That does not apply if all four of these are true. The company's main activity is a trade, profession or vocation. The SSAS and people linked to it do not control it. No member or connected person is a controlling director. And the shares are not held so that a member or connected person can use the property.
+SRC: HMRC | PTM122000: shares and equities | https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm122000
+SRC: HMRC | PTM121000: investments, essential principles | https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm121000
+SRC: HMRC | PTM125400: indirect holdings of taxable property | https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm125400
+SRC: Law | Finance Act 2004, Sch 29A, para 21 | https://www.legislation.gov.uk/ukpga/2004/12/schedule/29A
+
+## Can a SSAS invest overseas?
+Yes. The tax rules do not limit the kinds of asset a SSAS can hold. HMRC says schemes can buy shares in UK or overseas companies. The taxable property rules apply anywhere in the world. So a house, flat or holiday home abroad brings the same heavy charges as one in the UK.
+SRC: HMRC | PTM121000: investments, essential principles | https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm121000
+SRC: HMRC | PTM122000: shares and equities | https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm122000
+SRC: Law | Finance Act 2004, Sch 29A, para 7 | https://www.legislation.gov.uk/ukpga/2004/12/schedule/29A
+
+## Can a SSAS pay for life assurance?
+Yes. HMRC says pension schemes can use insurance policies, such as term life cover, to fund the death benefits they promise. The insurer pays the policy money to the scheme. The trustees then pay whatever death benefit the scheme rules promise, which may be a lump sum or a pension. A member's own contributions used to pay premiums on a personal (non-group) life policy get no tax relief. From 6 April 2027, death in service benefits paid by a registered pension scheme stay outside inheritance tax, if they meet the conditions.
+SRC: HMRC | PTM071000: death benefits, essential principles | https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm071000
+SRC: HMRC | PTM044100: tax relief for members | https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm044100
+SRC: Law | Inheritance Tax Act 1984, s.150A(6)(d) | https://www.legislation.gov.uk/ukpga/1984/51/section/150A
+SRC: GOV.UK | Inheritance Tax: unused pension funds and death benefits | https://www.gov.uk/government/publications/inheritance-tax-unused-pension-funds-and-death-benefits/inheritance-tax-unused-pension-funds-and-death-benefits
+
+# Money out | money-out
+
+## When can I take money out?
+Normally from age 55. From 6 April 2028 this goes up to 57. You may be able to start sooner if medical evidence shows you cannot carry on your job because of illness or disability, and you stop doing that job. You may also have a protected pension age. If its rules allow, a SSAS can pay out in several ways. These include a tax-free lump sum, money taken out bit by bit (drawdown), a scheme pension, or buying an annuity.
+SRC: Law | Finance Act 2004, ss.165 and 279 | https://www.legislation.gov.uk/ukpga/2004/12/section/279
+SRC: HMRC | PTM062100: pension age | https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm062100
+SRC: HMRC | PTM062210: protected pension age | https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm062210
+SRC: HMRC | PTM062215: protected pension age and age 57 | https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm062215
+SRC: HMRC | PTM061100: member benefits, essential principles | https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm061100
+SRC: Law | Finance Act 2004, Sch 28, para 1 | https://www.legislation.gov.uk/ukpga/2004/12/schedule/28
+
+## How much can I take tax free?
+Usually, up to 25% of the pension benefits you take can be tax free. For most people there is also an overall lump sum allowance of £268,275 across all their pensions. That limit has applied since 6 April 2024. Some people with older protections can take more. The rest is taxed as income when it is paid out.
+SRC: HMRC | Tax when you get a pension: what's tax-free | https://www.gov.uk/tax-on-pension/tax-free
+SRC: HMRC | PTM171000: lump sum allowance | https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm171000
+SRC: HMRC | PTM063230: pension commencement lump sum limits | https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm063230
+SRC: Law | Finance Act 2004, Sch 29 | https://www.legislation.gov.uk/ukpga/2004/12/schedule/29
+SRC: Law | Income Tax (Earnings and Pensions) Act 2003, ss.637P and 637Q | https://www.legislation.gov.uk/ukpga/2003/1/section/637P
+
+## Is there an age limit for a SSAS?
+No. You can be a member of a SSAS at any age. But you only get tax relief on money you pay in yourself if you are under 75. You must also be a relevant UK individual, such as someone with UK earnings. Since April 2011 you do not have to buy an annuity at 75.
+SRC: Law | Finance Act 2004, ss.188 and 189 | https://www.legislation.gov.uk/ukpga/2004/12/section/188
+SRC: HMRC | PTM044100: tax relief for members | https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm044100
+SRC: HM Treasury | Removing the requirement to annuitise by age 75, December 2010 | https://assets.publishing.service.gov.uk/media/5a7b0b6140f0b66eab99e916/consult_age_75_annuity_responses.pdf
+
+# When a member dies | when-a-member-dies
+
+## What happens to my SSAS if I die before 75?
+If you die before 75, many death benefits can be paid without income tax. A lump sum is normally tax free up to your available lump sum and death benefit allowance, usually £1,073,100. It must be paid within two years of when the scheme first knew, or could reasonably have known, of your death. Drawdown for a dependant or nominee is also usually tax free, if its conditions are met. A dependants' scheme pension is always taxed as income. From 6 April 2027, inheritance tax may also apply.
+SRC: HMRC | EIM75620: lump sums paid after a member's death | https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim75620
+SRC: HMRC | EIM75660: drawdown paid to a dependant, nominee or successor | https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim75660
+SRC: HMRC | PTM073010: tax on lump sum death benefits | https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm073010
+SRC: HMRC | Tax on a private pension you inherit | https://www.gov.uk/tax-on-pension-death-benefits
+SRC: HMRC | PTM073100: defined benefits lump sum death benefit | https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm073100
+SRC: HMRC | Technical note: Inheritance Tax on pensions | https://www.gov.uk/government/publications/inheritance-tax-on-pensions-technical-note/technical-note-inheritance-tax-on-pensions
+
+## What happens if I die at 75 or over?
+The people who get your SSAS money pay income tax on it, at their own tax rate. If a taxable lump sum is paid to a company, or to trustees (other than bare trustees), the scheme administrator normally pays a 45% charge instead. From 6 April 2027, inheritance tax may apply as well. But income tax is not charged on the part used to pay the inheritance tax.
+SRC: HMRC | EIM75620: lump sums paid after a member's death | https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim75620
+SRC: HMRC | PTM073010: tax on lump sum death benefits | https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm073010
+SRC: Law | Finance Act 2004, s.206 | https://www.legislation.gov.uk/ukpga/2004/12/section/206
+SRC: HMRC | Tax on a private pension you inherit | https://www.gov.uk/tax-on-pension-death-benefits
+SRC: HMRC | Technical note: Inheritance Tax on pensions | https://www.gov.uk/government/publications/inheritance-tax-on-pensions-technical-note/technical-note-inheritance-tax-on-pensions
+
+## Will my SSAS face inheritance tax from April 2027?
+It may. If you die on or after 6 April 2027, most money left in your SSAS counts as part of your estate for inheritance tax. Tax at 40% is only due on the part of your estate above your tax-free amount. Money left to a husband, wife or civil partner is usually tax free. A few benefits are left out, such as a dependants' scheme pension and some death in service benefits.
+Your personal representatives must report and pay the tax. They can ask the scheme to pay it straight to HMRC. Steve explains it in full in his guide to <a href="https://inheritancetaxexplained.co.uk/pensions-and-inheritance-tax-from-april-2027/guide/">pensions and inheritance tax from April 2027</a>.
+SRC: Law | Inheritance Tax Act 1984, s.150A, inserted by the Finance Act 2026 | https://www.legislation.gov.uk/ukpga/1984/51/section/150A
+SRC: HMRC | Technical note: Inheritance Tax on pensions, paras 1.2, 2.2, 3.4 and 7.1 | https://www.gov.uk/government/publications/inheritance-tax-on-pensions-technical-note/technical-note-inheritance-tax-on-pensions
+SRC: HMRC | Inheritance Tax | https://www.gov.uk/inheritance-tax
+
+## What is a dependants' scheme pension, and why does it matter?
+It is a regular income the scheme pays to a dependant after a member dies. A dependant includes a husband, wife or civil partner, or a child under 23. In some cases it includes another person who relied on the member financially. A child aged 23 or over normally counts only if they depended on the member because of a physical or mental impairment. The dependant pays income tax on the pension.
+It matters because of inheritance tax. From 6 April 2027, pension money is left out of inheritance tax only if it may only be used to pay a dependants' scheme pension. If the person can choose another kind of death benefit instead, it is not left out.
+SRC: Law | Finance Act 2004, Sch 28, paras 15 and 16 | https://www.legislation.gov.uk/ukpga/2004/12/schedule/28
+SRC: Law | Inheritance Tax Act 1984, s.150A(2) and (6)(a) | https://www.legislation.gov.uk/ukpga/1984/51/section/150A
+SRC: HMRC | PTM072110: dependants' scheme pension | https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm072110
+SRC: HMRC | PTM071200: who is a dependant | https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm071200
+SRC: HMRC | Technical note: Inheritance Tax on pensions, para 3.3.1 | https://www.gov.uk/government/publications/inheritance-tax-on-pensions-technical-note/technical-note-inheritance-tax-on-pensions
+
+# Running a SSAS | running-a-ssas
+
+## How much does a SSAS cost to set up and run?
+We checked the current fees of ten providers. For a SSAS with two members, the yearly fee is £800 to £2,420 plus VAT. Most also charge initial costs. Of those we can price, the highest in our simple example is £2,100 plus VAT. The fees are flat fees, not a percentage of the pension. See <a href="/ssas-pension-table-showing-best-ssas-providers/">the full fee comparison</a> for what each provider charges.
+SRC: Provider evidence | SSAS provider fees compared, 2026 | /ssas-pension-table-showing-best-ssas-providers/
+
+## Is there a minimum amount for a SSAS to be worth it?
+No law sets a minimum size for a SSAS. But the fees are flat, so the smaller the pension, the bigger the fee is as a share of it. Compare a 1% yearly charge. A flat fee of £1,500 a year costs less once the pension is above £150,000, and more below it. Some providers set their own minimum. Howden only sets up schemes of at least £200,000, and Alltrust's minimum is £100,000.
+SRC: Provider evidence | SSAS provider fees compared, 2026 | /ssas-pension-table-showing-best-ssas-providers/
+SRC: Steve's analysis | The flat fee and 1% comparison | #steves-analysis
+
+## How long does it take to set up?
+There is no fixed time. First the scheme administrator must be registered with HMRC. Then they apply online to register the scheme. HMRC may ask questions, and it has no time limit to decide. If there is no decision within six months, the administrator can appeal to a tribunal. Tax relief only starts from the date HMRC registers the scheme. A SSAS with more than one member must also register with The Pensions Regulator within three months.
+SRC: HMRC | Apply to register a pension scheme | https://www.gov.uk/guidance/pension-administrators-register-a-scheme
+SRC: HMRC | PTM032200: HMRC's decision | https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm032200
+SRC: HMRC | PTM032300: date of registration | https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm032300
+SRC: TPR | Register a pension scheme | https://www.thepensionsregulator.gov.uk/en/trustees/submit-reports-payments-and-requests-to-us/register-a-pension-scheme
+
+## Does HMRC still register new SSASs, and why does it refuse some?
+Yes. The law says HMRC must register a new pension scheme unless certain problems apply. One is wrong or false information. Another is a scheme not set up mainly to provide authorised pensions or lump sums. Others are a scheme administrator who is not fit and proper, or a sponsoring company that has been dormant for a month in a row in the past year. HMRC does refuse many. Its April 2026 newsletter says it received 2,421 applications to register new pension schemes in 2025/26. It registered 54%, refused 33%, and had not yet decided the rest. Those figures cover all kinds of scheme, not just SSASs.
+SRC: Law | Finance Act 2004, s.153(5) | https://www.legislation.gov.uk/ukpga/2004/12/section/153
+SRC: HMRC | PTM032200: HMRC's decision | https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm032200
+SRC: HMRC | PTM153000: fit and proper person | https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm153000
+SRC: HMRC | Pension schemes newsletter 180, April 2026 | https://www.gov.uk/government/publications/pension-schemes-newsletter-180-april-2026/newsletter-180-april-2026
+
+## What does the trustee have to do each year?
+Keep clear records. Keep them for the tax year they relate to and six more years. File with HMRC when needed. That means an event report by 31 January if certain events happened, and a pension scheme return if HMRC sends a notice to file. It also means an Accounting for Tax return if certain tax charges arise. A money purchase SSAS with 2 to 11 members normally completes a scheme return for The Pensions Regulator every three years. A final salary (defined benefit) scheme completes one every year. A small SSAS needs no auditor, if every member is a trustee and the trustees decide everything together or have an independent trustee.
+SRC: HMRC | PTM160200: keeping records | https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm160200
+SRC: HMRC | Send pension scheme reports | https://www.gov.uk/guidance/pension-administrators-reporting-to-hmrc
+SRC: HMRC | Submit a pension scheme return | https://www.gov.uk/guidance/changes-to-2024-to-2025-pension-scheme-return-for-pension-scheme-administrators
+SRC: TPR | DC scheme return | https://www.thepensionsregulator.gov.uk/en/trustees/submit-reports-payments-and-requests-to-us/scheme-return/dc-scheme-return
+SRC: Law | SI 1996/1715, reg 3(1)(h) | https://www.legislation.gov.uk/uksi/1996/1715/regulation/3
+
+## What happens to the SSAS if my company is sold?
+It depends on the SSAS's own rules. The scheme's assets are held by its trustees, not by the company. The rules may let a different company become the sponsoring employer. The trustees must tell The Pensions Regulator about changes to employer details as soon as reasonably practicable. Members can usually move their share to another registered pension scheme. Any loan from the SSAS to the company must keep to HMRC's loan rules until it is paid back.
+SRC: HMRC | PTM022000: types of pension scheme | https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm022000
+SRC: TPR | Trustee guidance | https://www.thepensionsregulator.gov.uk/en/document-library/scheme-management-detailed-guidance/governing-body-detailed-guidance/trustee-guidance
+SRC: TPR | Update information on the scheme register | https://www.thepensionsregulator.gov.uk/en/trustees/submit-reports-payments-and-requests-to-us/trustees-duty-to-update-scheme-information
+SRC: HMRC | PTM100010: transfers | https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm100010
+SRC: HMRC | PTM123200: loans to sponsoring employers | https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm123200
+
+## What happens if my company closes?
+A SSAS does not end just because the company closes, unless its rules say so. The trustees may be able to run it as a closed scheme, or they may wind it up. HMRC can take a SSAS off its register if a sponsoring employer is a dormant company. If HMRC does de-register it, the scheme administrator faces a charge of 40% of the cash and the market value of the assets held just before. If the SSAS is wound up, HMRC must be told within three months of the wind up finishing.
+SRC: TPR | Winding up a defined contribution scheme: deciding whether to wind up | https://www.thepensionsregulator.gov.uk/en/document-library/scheme-management-detailed-guidance/winding-up-or-transferring-a-scheme-detailed-guidance/winding-up-a-defined-contribution-scheme/decide-whether-the-scheme-should-be-wound-up
+SRC: HMRC | PTM033200: de-registration | https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm033200
+SRC: HMRC | PTM033300: consequences of de-registration | https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm033300
+SRC: Law | Finance Act 2004, ss.158 and 242 | https://www.legislation.gov.uk/ukpga/2004/12/section/242
+SRC: HMRC | Wind up a pension scheme | https://www.gov.uk/guidance/pension-administrators-wind-up-a-scheme
+
+## What are the warning signs of a SSAS scam?
+Be wary of anyone who contacts you out of the blue about your pension. Cold calls about pensions are against the law, apart from narrow exceptions. Other warning signs are promises of high returns, offers to get cash out before age 55, pressure to sign quickly, and unusual or overseas investments. For a SSAS, one big warning sign is being asked to join the scheme of a company you have no real link to. Another is being helped to invent a job link, which MoneyHelper says is fraud. Check any firm on the <a href="https://register.fca.org.uk/">FCA Register</a>. Never take advice from a company that contacted you.
+SRC: Law | Privacy and Electronic Communications Regulations 2003, reg 21B | https://www.legislation.gov.uk/uksi/2003/2426/regulation/21B
+SRC: TPR | Avoid and report pension scams | https://www.thepensionsregulator.gov.uk/en/pension-scams
+SRC: FCA | ScamSmart: pension scams | https://www.fca.org.uk/scamsmart/how-avoid-pension-scams
+SRC: MoneyHelper | How to spot a pension scam | https://www.moneyhelper.org.uk/en/money-troubles/scams/how-to-spot-a-pension-scam
+SRC: MoneyHelper | SSAS pensions explained | https://www.moneyhelper.org.uk/en/pensions-and-retirement/pensions-basics/defined-contribution-small-self-administered-pension-schemes
+
+## What are the disadvantages of a SSAS?
+A SSAS costs money to set up and run each year. The fees are flat, so they weigh more on a small pension. The trustees, often the members themselves, must follow pension and tax law. They can be personally liable for losses they cause. Breaking the tax rules is costly. An unauthorised payment normally causes a 40% tax charge on the member or employer. A further 15% surcharge can apply if enough unauthorised payments are made. The scheme administrator can also face a scheme sanction charge: normally 15% where the 40% charge has been paid, but up to 40% otherwise. A loan to your own company can go wrong. And the FSCS cannot protect the scheme itself if it fails. See <a href="/ssas-disadvantages/">the full list of disadvantages</a>.
+SRC: Provider evidence | SSAS provider fees compared, 2026 | /ssas-pension-table-showing-best-ssas-providers/
+SRC: TPR | Trustee guidance | https://www.thepensionsregulator.gov.uk/en/document-library/scheme-management-detailed-guidance/governing-body-detailed-guidance/trustee-guidance
+SRC: HMRC | PTM024500: authorised and unauthorised payments | https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm024500
+SRC: FSCS | Pensions | https://www.fscs.org.uk/what-we-cover/pensions/
+SRC: Law | Finance Act 2004, ss.208, 209, 239 and 240 | https://www.legislation.gov.uk/ukpga/2004/12/section/240
+SRC: HMRC | PTM131000: unauthorised payments | https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm131000
+SRC: HMRC | PTM135100: scheme sanction charge | https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm135100

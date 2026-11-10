@@ -1,0 +1,255 @@
+<!doctype html>
+<html lang="en-GB">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Cookies and visit counts | My SSAS</title>
+<meta name="description" content="My SSAS sets no cookies. It counts visits with Cloudflare Web Analytics, which uses no cookies, and you can switch the counting off on this page.">
+<link rel="canonical" href="https://my-ssas.co.uk/cookie-policy/">
+<script type="application/ld+json">
+{
+ "@context": "https://schema.org",
+ "@graph": [
+  {
+   "@type": "WebSite",
+   "@id": "https://my-ssas.co.uk/#website",
+   "url": "https://my-ssas.co.uk/",
+   "name": "My SSAS",
+   "publishingPrinciples": "https://my-ssas.co.uk/sources-and-corrections/",
+   "inLanguage": "en-GB",
+   "publisher": {
+    "@id": "https://my-ssas.co.uk/#steve-hunt"
+   }
+  },
+  {
+   "@type": "Person",
+   "@id": "https://my-ssas.co.uk/#steve-hunt",
+   "name": "Steve Hunt",
+   "alternateName": [
+    "Steve Hunt ACII TEP",
+    "Stephen Hunt"
+   ],
+   "honorificSuffix": "ACII TEP",
+   "url": "https://my-ssas.co.uk/about/"
+  },
+  {
+   "@type": "WebPage",
+   "@id": "https://my-ssas.co.uk/cookie-policy/#webpage",
+   "url": "https://my-ssas.co.uk/cookie-policy/",
+   "name": "Cookies and visit counts",
+   "dateModified": "2026-10-05",
+   "inLanguage": "en-GB",
+   "isPartOf": {
+    "@id": "https://my-ssas.co.uk/#website"
+   },
+   "publisher": {
+    "@id": "https://my-ssas.co.uk/#steve-hunt"
+   }
+  },
+  {
+   "@type": "BreadcrumbList",
+   "itemListElement": [
+    {
+     "@type": "ListItem",
+     "position": 1,
+     "name": "Home",
+     "item": "https://my-ssas.co.uk/"
+    },
+    {
+     "@type": "ListItem",
+     "position": 2,
+     "name": "Cookies",
+     "item": "https://my-ssas.co.uk/cookie-policy/"
+    }
+   ]
+  }
+ ]
+}
+</script>
+<style>
+  :root {
+    --teal: #0e7c86;
+    --teal-dark: #0a5c63;
+    --teal-light: #e6f4f5;
+    --ink: #1d2a30;
+    --muted: #55656c;
+    --line: #d6e2e4;
+    --paper: #ffffff;
+    --soft: #f6f9fa;
+  }
+  * { box-sizing: border-box; }
+  body { margin: 0; background: var(--paper); color: var(--ink); font: 17px/1.6 -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Arial, sans-serif; }
+  a { color: var(--teal-dark); }
+  header { background: var(--teal); color: #fff; }
+  .bar { max-width: 960px; margin: 0 auto; padding: 14px 16px; display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: 8px 20px; }
+  .brand { color: #fff; text-decoration: none; font-weight: 700; font-size: 22px; letter-spacing: 0.3px; }
+  nav a { color: #fff; text-decoration: none; margin-left: 16px; font-size: 16px; }
+  nav a:first-child { margin-left: 0; }
+  main { max-width: 960px; margin: 0 auto; padding: 8px 16px 40px; }
+  h1 { font-size: 32px; line-height: 1.2; margin: 22px 0 10px; }
+  h2 { font-size: 24px; margin: 36px 0 10px; }
+  .byline { color: var(--muted); font-size: 15px; margin: 0 0 18px; }
+  .answer { background: var(--teal-light); border-left: 5px solid var(--teal); padding: 14px 18px; border-radius: 6px; font-size: 18px; }
+  .answer p { margin: 0 0 8px; }
+  .answer p.src { font-size: 14px; color: var(--muted); margin: 0; }
+  .choice { border: 2px solid var(--teal); border-radius: 8px; padding: 14px 18px; margin: 22px 0; background: var(--soft); }
+  .choice h2 { margin: 0 0 6px; font-size: 20px; }
+  .tablewrap { overflow-x: auto; -webkit-overflow-scrolling: touch; margin: 12px 0; }
+  table { border-collapse: collapse; width: 100%; min-width: 600px; font-size: 15px; }
+  th, td { border-bottom: 1px solid var(--line); padding: 9px 10px; text-align: left; vertical-align: top; }
+  th { background: var(--soft); font-weight: 700; }
+  td:first-child { font-weight: 600; }
+  .note { color: var(--muted); font-size: 15px; }
+  ul.plain { padding-left: 20px; }
+  ul.plain li { margin-bottom: 6px; }
+  .ask { display: inline-block; background: var(--teal); color: #fff; text-decoration: none; padding: 12px 20px; border-radius: 6px; font-weight: 700; margin: 8px 0; border: 0; font-size: 17px; cursor: pointer; }
+  .guides { columns: 2; column-gap: 32px; padding-left: 20px; }
+  .guides li { margin-bottom: 6px; break-inside: avoid; }
+  form.enquiry { max-width: 540px; background: var(--soft); border: 1px solid var(--line); border-radius: 8px; padding: 16px 18px; margin: 12px 0; }
+  form.enquiry label { display: block; font-weight: 600; margin: 12px 0 4px; }
+  form.enquiry label:first-of-type { margin-top: 0; }
+  form.enquiry input, form.enquiry select, form.enquiry textarea { width: 100%; font: inherit; padding: 9px 10px; border: 1px solid #b9c9cc; border-radius: 5px; background: #fff; color: var(--ink); }
+  form.enquiry textarea { min-height: 110px; }
+  .hp { position: absolute; left: -5000px; }
+  .sources { font-size: 14px; word-break: break-word; }
+  .sources li { margin-bottom: 6px; }
+  footer { background: var(--soft); border-top: 1px solid var(--line); }
+  .foot { max-width: 960px; margin: 0 auto; padding: 22px 16px 32px; font-size: 14px; color: var(--muted); }
+  @media (max-width: 600px) {
+    body { font-size: 16px; }
+    h1 { font-size: 26px; }
+    h2 { font-size: 21px; }
+    nav a { margin-left: 12px; font-size: 15px; }
+    .guides { columns: 1; }
+    table.rules { min-width: 0; }
+    table.rules thead { display: none; }
+    table.rules, table.rules tbody, table.rules tr, table.rules td { display: block; width: 100%; }
+    table.rules tr { border-bottom: 1px solid var(--line); padding: 10px 0; }
+    table.rules td { border: 0; padding: 2px 0; }
+    table.rules td:last-child { font-size: 14px; color: var(--muted); }
+  }
+
+  .crumbs { font-size: 14px; color: var(--muted); margin: 14px 0 0; }
+  .optout { border: 2px solid var(--teal); border-radius: 8px; padding: 14px 18px; margin: 16px 0; background: var(--soft); }
+  .optout p#stats-status { font-weight: 600; }
+  .optout button { margin: 6px 10px 6px 0; }
+  .optout button.plain { font: inherit; padding: 10px 16px; border-radius: 6px; border: 1px solid var(--teal); background: #fff; color: var(--teal-dark); cursor: pointer; }
+  ul.plain { padding-left: 20px; }
+  ul.plain li { margin-bottom: 4px; }
+  .srclist h3 { font-size: 18px; }
+  .srclist ul { font-size: 14px; word-break: break-word; padding-left: 20px; }
+  .srclist li { margin-bottom: 4px; }
+</style>
+</head>
+<body>
+<header>
+  <div class="bar">
+    <a class="brand" href="/">My SSAS</a>
+    <nav>
+      <a href="/">Home</a>
+      <a href="/faq/">FAQ</a>
+      <a href="/ssas-pension-table-showing-best-ssas-providers/">Fees</a>
+      <a href="/take-the-ssas-test/">SSAS Test</a>
+      <a href="/contact/">Ask Steve</a>
+    </nav>
+  </div>
+</header>
+
+<main>
+  <p class="crumbs"><a href="/">Home</a> &rsaquo; Cookies</p>
+  <h1>Cookies and visit counts</h1>
+  <p class="byline">Last updated 5 October 2026</p>
+  <div class="answer">
+    <p>This site sets no cookies. It counts visits using Cloudflare Web Analytics, which Cloudflare says uses no cookies and does not track you as a person. You can switch the counting off on this page.</p>
+  </div>
+
+  <h2 id="cookies">Cookies</h2>
+  <p>This site does not set any cookies. It has no advertising, and it does not use Google Analytics.</p>
+
+  <h2 id="visit-counts">Visit counts</h2>
+  <p>To see which pages help people, and to improve the site, we use Cloudflare Web Analytics. When a page loads, its script sends Cloudflare information such as:</p>
+  <ul class="plain">
+    <li>the page you looked at</li>
+    <li>the site that sent you here</li>
+    <li>your browser and operating system, and the type of device</li>
+    <li>how quickly the page loaded</li>
+    <li>your country</li>
+  </ul>
+  <p>Cloudflare says it does not use cookies, browser storage or fingerprinting to identify visitors. We see statistics for the whole site, such as how many people read a page, broken down by things like country and browser. We use them only to improve the site, and Cloudflare handles them only to help us do that.</p>
+
+  <h2 id="no-banner">Why there is no cookie banner</h2>
+  <p>Since 5 February 2026, the law has let a website count visits without asking first, if the only purpose is statistics to improve the site. The website must explain this clearly, and give you a simple, free way to say no. The counts must not be used to track or profile individual visitors. This site uses Cloudflare Web Analytics on that basis.</p>
+
+  <h2 id="switch-off">Switch off visit counting</h2>
+  <div class="optout">
+    <p id="stats-status">Visit counting can be switched off here. This needs JavaScript to be on in your browser.</p>
+    <button class="ask" type="button" id="stats-off">Switch off visit counting</button>
+    <button class="plain" type="button" id="stats-on">Switch it back on</button>
+  </div>
+  <p>Switching off saves one small note in your browser, so the counting stays off on this device. That note is used only to remember your choice, not for counting. Nothing else is stored. If you clear your browser data, or use another browser or device, you will need to switch it off again.</p>
+  <p>If your browser sends a Global Privacy Control signal, we treat that as switching the counting off.</p>
+
+  <h2 id="forms">Sending a form</h2>
+  <p>When you send a form, your browser goes to Formspree&rsquo;s website to confirm it was sent. Formspree&rsquo;s own cookie and privacy policies apply there. The <a href="/privacy-policy/">privacy policy</a> explains what happens to your details.</p>
+
+  <h2 id="links">Links to other sites</h2>
+  <p>Links to other websites, such as GOV.UK and HMRC&rsquo;s manuals, take you to sites with their own cookie policies.</p>
+
+  <h2 id="sources">Sources</h2>
+  <div class="srclist">
+  <h3>Law</h3>
+  <ul>
+    <li><a href="https://www.legislation.gov.uk/uksi/2003/2426/regulation/6" target="_blank" rel="noopener">PECR, regulation 6: storing or reading information on your device</a></li>
+    <li><a href="https://www.legislation.gov.uk/uksi/2003/2426/schedule/A1" target="_blank" rel="noopener">PECR, Schedule A1, para 4 (strictly necessary) and para 5 (statistical purposes)</a></li>
+  </ul>
+  <h3>ICO</h3>
+  <ul>
+    <li><a href="https://ico.org.uk/for-organisations/direct-marketing-and-privacy-and-electronic-communications/guidance-on-the-use-of-storage-and-access-technologies/what-are-the-exceptions/" target="_blank" rel="noopener">Guidance on the use of storage and access technologies: what are the exceptions?</a></li>
+  </ul>
+  <h3>Provider evidence</h3>
+  <ul>
+    <li><a href="https://cloudflare.com/web-analytics" target="_blank" rel="noopener">Cloudflare Web Analytics</a></li>
+    <li><a href="https://developers.cloudflare.com/web-analytics/about/" target="_blank" rel="noopener">Cloudflare Web Analytics docs</a></li>
+  </ul>
+  </div>
+</main>
+
+<footer>
+  <div class="foot">
+    <p>My SSAS gives general information only. It is not advice or a personal recommendation. A SSAS is an occupational pension scheme, meaning a pension linked to an employer. It must be registered with HMRC to receive registered pension scheme tax treatment. If it has more than one member, it must also register with The Pensions Regulator. If you send an enquiry, it goes to Steve Hunt ACII TEP, who will contact you.</p>
+    <p>my-ssas.co.uk is run by Steve Hunt ACII TEP, Stable Cottage, Water Lane, South Witham, Grantham, Lincolnshire NG33 5PH. Email: steve@my-ssas.co.uk. Phone: 01733 602 071.</p>
+    <p><a href="/about/">About Steve</a> &middot; <a href="/blog/">Blog</a> &middot; <a href="/sources-and-corrections/">Sources and corrections</a> &middot; <a href="/privacy-policy/">Privacy policy</a> &middot; <a href="/cookie-policy/">Cookies</a></p>
+  </div>
+</footer>
+<script>
+(function () {
+  var key = 'mySsasNoStats';
+  var status = document.getElementById('stats-status');
+  function isOff() {
+    try { return localStorage.getItem(key) === '1'; } catch (e) { return null; }
+  }
+  function show() {
+    var off = isOff();
+    if (off === null) {
+      status.textContent = 'Your browser is blocking site storage, so this page cannot save your choice. Visit counting will not run while storage is blocked.';
+    } else if (off) {
+      status.textContent = 'Visit counting is switched off in this browser.';
+    } else if (navigator.globalPrivacyControl) {
+      status.textContent = 'Your browser sends a Global Privacy Control signal, so visit counting is switched off.';
+    } else {
+      status.textContent = 'Visit counting is switched on in this browser.';
+    }
+  }
+  document.getElementById('stats-off').addEventListener('click', function () {
+    try { localStorage.setItem(key, '1'); } catch (e) {}
+    show();
+  });
+  document.getElementById('stats-on').addEventListener('click', function () {
+    try { localStorage.removeItem(key); } catch (e) {}
+    show();
+  });
+  show();
+})();
+</script>
+</body>
+</html>

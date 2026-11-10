@@ -1,0 +1,44 @@
+# My SSAS
+
+> Plain English answers about SSAS pensions (small self-administered schemes) for UK business owners: what a SSAS is, how to set one up, loanbacks, commercial property, contributions, costs and the disadvantages. Every answer links to the law and HMRC guidance it relies on. By Steve Hunt ACII TEP. General information only, not advice.
+
+Author: Steve Hunt ACII TEP, Chartered Insurance Risk Manager and Trust and Estate Practitioner, in UK financial services since 1980.
+About the author: https://my-ssas.co.uk/about/
+LinkedIn: https://www.linkedin.com/in/steve~hunt
+YouTube: https://www.youtube.com/@SteveHuntACIITEP
+X: https://x.com/SHunt_ACII_TEP
+Steve's other site: https://inheritancetaxexplained.co.uk/
+
+## Guides
+
+- [What is a SSAS pension? A plain guide for business owners](https://my-ssas.co.uk/): A SSAS is an occupational pension scheme set up by an employer, often an owner-managed company. What it is, what it can do, the main rules and what it costs, in plain English, with the law linked.
+- [SSAS pension FAQ: 60 questions answered, with sources](https://my-ssas.co.uk/faq/): 60 questions about SSAS pensions answered in plain English: what a SSAS is, who runs it, loanbacks, property, contributions, tax and death benefits, each with the law linked.
+- [SSAS provider fees compared 2026](https://my-ssas.co.uk/ssas-pension-table-showing-best-ssas-providers/): What a SSAS costs in 2026: yearly fees and initial costs from UK SSAS providers, checked against provider fee schedules, price pages and written confirmations, with sources and dates.
+- [How to set up a SSAS pension: the steps, the time and the cost](https://my-ssas.co.uk/how-to-set-up-a-ssas/): How to set up a SSAS pension: the steps in order, what HMRC asks for, how long it takes, what it costs and why HMRC refuses some schemes, in plain English with the law linked.
+- [SSAS loanback rules: how a SSAS can lend to your company](https://my-ssas.co.uk/ssas-loanback/): The SSAS loanback rules in plain English: the 50% limit, first charge security, minimum interest, the five-year term and repayments, with a worked example and the law linked.
+- [Who runs a SSAS, and who regulates it?](https://my-ssas.co.uk/who-runs-a-ssas/): Who controls a SSAS: the trustees (usually the business owner), the scheme administrator and any professional trustee. Who regulates it: The Pensions Regulator, HMRC and, for advice, the FCA. Plain English, law linked.
+- [SSAS or SIPP: what is the difference?](https://my-ssas.co.uk/ssas-vs-sipp/): SSAS or SIPP? Who is in control, who regulates them, loans to your company, property, fees and FSCS protection, and moving between them, in plain English with the law linked.
+- [SSAS commercial property: buying your business premises](https://my-ssas.co.uk/ssas-commercial-property/): Can my SSAS buy my business premises? What a SSAS can buy, buying from you, renting to your company, borrowing, stamp duty and VAT, with a worked example and the law linked.
+- [SSAS contributions: how much can go in, and the tax relief](https://my-ssas.co.uk/ssas-contributions/): How much can I pay into my SSAS? Who can pay in, the £60,000 annual allowance, carry forward, tax relief for you and your company, with a worked example and the law linked.
+- [SSAS disadvantages: the honest list](https://my-ssas.co.uk/ssas-disadvantages/): What are the disadvantages of a SSAS? Cost, trustee duties, tax charges, paperwork, ties to your business, no FSCS cover for the scheme and scams, with the law linked.
+- [Take the SSAS Test](https://my-ssas.co.uk/take-the-ssas-test/): The SSAS Test: three quick questions about your business and your pensions. Each one says why we ask, with the rule behind it. Your answers go to Steve Hunt ACII TEP.
+
+## About, method and policies
+
+- [About Steve Hunt ACII TEP](https://my-ssas.co.uk/about/): Who writes My SSAS, and how it is checked. Steve Hunt is a Chartered Insurance Risk Manager, ACII and TEP, in UK financial services since 1980.
+- [Sources, method and corrections](https://my-ssas.co.uk/sources-and-corrections/): How every answer on My SSAS is backed up: the source labels, the dates, the 2022 blog posts, and a dated list of corrections.
+- [Ask Steve a question about SSAS pensions](https://my-ssas.co.uk/contact/): Ask Steve Hunt ACII TEP a question about SSAS pensions. Use the form, call 01733 602 071 or email steve@my-ssas.co.uk.
+- [Privacy policy](https://my-ssas.co.uk/privacy-policy/): How My SSAS uses your details when you ask Steve a question or take the SSAS Test: who sees them, where they go, how long they are kept, and your rights.
+- [Cookies and visit counts](https://my-ssas.co.uk/cookie-policy/): My SSAS sets no cookies. It counts visits with Cloudflare Web Analytics, which uses no cookies, and you can switch the counting off on this page.
+
+## Archive
+
+- [Blog](https://my-ssas.co.uk/blog/): Steve Hunt's 2022 opinion pieces on SSAS pensions and salary sacrifice, each with a note on what has changed since.
+
+## Notes
+
+- Every page shows the date it was last checked. This file was last updated on 10 November 2026.
+- Sources are labelled by the kind of authority they carry: Law, HMRC, the regulators, GOV.UK, provider evidence, or Steve's own analysis or view.
+- The 2022 blog posts are archived opinion pieces, kept with dated notes on what has changed.
+- For current rules, use the guides and the FAQ in preference to the archived 2022 blog posts. The archive keeps historical wording, and may contain figures or rules that have since changed.
+- The site does not give advice, and does not advise on pension transfers.

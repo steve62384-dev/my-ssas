@@ -1,0 +1,212 @@
+<!doctype html>
+<html lang="en-GB">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Sources, method and corrections | My SSAS</title>
+<meta name="description" content="How every answer on My SSAS is backed up: the source labels, the dates, the 2022 blog posts, and a dated list of corrections.">
+<link rel="canonical" href="https://my-ssas.co.uk/sources-and-corrections/">
+<script type="application/ld+json">
+{
+ "@context": "https://schema.org",
+ "@graph": [
+  {
+   "@type": "WebSite",
+   "@id": "https://my-ssas.co.uk/#website",
+   "url": "https://my-ssas.co.uk/",
+   "name": "My SSAS",
+   "publishingPrinciples": "https://my-ssas.co.uk/sources-and-corrections/",
+   "inLanguage": "en-GB",
+   "publisher": {
+    "@id": "https://my-ssas.co.uk/#steve-hunt"
+   }
+  },
+  {
+   "@type": "Person",
+   "@id": "https://my-ssas.co.uk/#steve-hunt",
+   "name": "Steve Hunt",
+   "alternateName": [
+    "Steve Hunt ACII TEP",
+    "Stephen Hunt"
+   ],
+   "honorificSuffix": "ACII TEP",
+   "url": "https://my-ssas.co.uk/about/"
+  },
+  {
+   "@type": "WebPage",
+   "@id": "https://my-ssas.co.uk/sources-and-corrections/#webpage",
+   "url": "https://my-ssas.co.uk/sources-and-corrections/",
+   "name": "Sources, method and corrections",
+   "dateModified": "2026-11-10",
+   "inLanguage": "en-GB",
+   "isPartOf": {
+    "@id": "https://my-ssas.co.uk/#website"
+   },
+   "author": {
+    "@id": "https://my-ssas.co.uk/#steve-hunt"
+   }
+  },
+  {
+   "@type": "BreadcrumbList",
+   "itemListElement": [
+    {
+     "@type": "ListItem",
+     "position": 1,
+     "name": "Home",
+     "item": "https://my-ssas.co.uk/"
+    },
+    {
+     "@type": "ListItem",
+     "position": 2,
+     "name": "Sources, method and corrections",
+     "item": "https://my-ssas.co.uk/sources-and-corrections/"
+    }
+   ]
+  }
+ ]
+}
+</script>
+<style>
+  :root {
+    --teal: #0e7c86;
+    --teal-dark: #0a5c63;
+    --teal-light: #e6f4f5;
+    --ink: #1d2a30;
+    --muted: #55656c;
+    --line: #d6e2e4;
+    --paper: #ffffff;
+    --soft: #f6f9fa;
+  }
+  * { box-sizing: border-box; }
+  body { margin: 0; background: var(--paper); color: var(--ink); font: 17px/1.6 -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Arial, sans-serif; }
+  a { color: var(--teal-dark); }
+  header { background: var(--teal); color: #fff; }
+  .bar { max-width: 960px; margin: 0 auto; padding: 14px 16px; display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: 8px 20px; }
+  .brand { color: #fff; text-decoration: none; font-weight: 700; font-size: 22px; letter-spacing: 0.3px; }
+  nav a { color: #fff; text-decoration: none; margin-left: 16px; font-size: 16px; }
+  nav a:first-child { margin-left: 0; }
+  main { max-width: 960px; margin: 0 auto; padding: 8px 16px 40px; }
+  h1 { font-size: 32px; line-height: 1.2; margin: 22px 0 10px; }
+  h2 { font-size: 24px; margin: 36px 0 10px; }
+  .byline { color: var(--muted); font-size: 15px; margin: 0 0 18px; }
+  .answer { background: var(--teal-light); border-left: 5px solid var(--teal); padding: 14px 18px; border-radius: 6px; font-size: 18px; }
+  .answer p { margin: 0 0 8px; }
+  .answer p.src { font-size: 14px; color: var(--muted); margin: 0; }
+  .choice { border: 2px solid var(--teal); border-radius: 8px; padding: 14px 18px; margin: 22px 0; background: var(--soft); }
+  .choice h2 { margin: 0 0 6px; font-size: 20px; }
+  .tablewrap { overflow-x: auto; -webkit-overflow-scrolling: touch; margin: 12px 0; }
+  table { border-collapse: collapse; width: 100%; min-width: 600px; font-size: 15px; }
+  th, td { border-bottom: 1px solid var(--line); padding: 9px 10px; text-align: left; vertical-align: top; }
+  th { background: var(--soft); font-weight: 700; }
+  td:first-child { font-weight: 600; }
+  .note { color: var(--muted); font-size: 15px; }
+  ul.plain { padding-left: 20px; }
+  ul.plain li { margin-bottom: 6px; }
+  .ask { display: inline-block; background: var(--teal); color: #fff; text-decoration: none; padding: 12px 20px; border-radius: 6px; font-weight: 700; margin: 8px 0; border: 0; font-size: 17px; cursor: pointer; }
+  .guides { columns: 2; column-gap: 32px; padding-left: 20px; }
+  .guides li { margin-bottom: 6px; break-inside: avoid; }
+  form.enquiry { max-width: 540px; background: var(--soft); border: 1px solid var(--line); border-radius: 8px; padding: 16px 18px; margin: 12px 0; }
+  form.enquiry label { display: block; font-weight: 600; margin: 12px 0 4px; }
+  form.enquiry label:first-of-type { margin-top: 0; }
+  form.enquiry input, form.enquiry select, form.enquiry textarea { width: 100%; font: inherit; padding: 9px 10px; border: 1px solid #b9c9cc; border-radius: 5px; background: #fff; color: var(--ink); }
+  form.enquiry textarea { min-height: 110px; }
+  .hp { position: absolute; left: -5000px; }
+  .sources { font-size: 14px; word-break: break-word; }
+  .sources li { margin-bottom: 6px; }
+  footer { background: var(--soft); border-top: 1px solid var(--line); }
+  .foot { max-width: 960px; margin: 0 auto; padding: 22px 16px 32px; font-size: 14px; color: var(--muted); }
+  @media (max-width: 600px) {
+    body { font-size: 16px; }
+    h1 { font-size: 26px; }
+    h2 { font-size: 21px; }
+    nav a { margin-left: 12px; font-size: 15px; }
+    .guides { columns: 1; }
+    table.rules { min-width: 0; }
+    table.rules thead { display: none; }
+    table.rules, table.rules tbody, table.rules tr, table.rules td { display: block; width: 100%; }
+    table.rules tr { border-bottom: 1px solid var(--line); padding: 10px 0; }
+    table.rules td { border: 0; padding: 2px 0; }
+    table.rules td:last-child { font-size: 14px; color: var(--muted); }
+  }
+
+  .crumbs { font-size: 14px; color: var(--muted); margin: 14px 0 0; }
+  h3 { font-size: 19px; line-height: 1.35; margin: 24px 0 6px; }
+  ul.plain { padding-left: 20px; }
+  ul.plain li { margin-bottom: 8px; }
+</style>
+</head>
+<body>
+<header>
+  <div class="bar">
+    <a class="brand" href="/">My SSAS</a>
+    <nav>
+      <a href="/">Home</a>
+      <a href="/faq/">FAQ</a>
+      <a href="/ssas-pension-table-showing-best-ssas-providers/">Fees</a>
+      <a href="/take-the-ssas-test/">SSAS Test</a>
+      <a href="/contact/">Ask Steve</a>
+    </nav>
+  </div>
+</header>
+
+<main>
+  <p class="crumbs"><a href="/">Home</a> &rsaquo; Sources, method and corrections</p>
+  <h1>Sources, method and corrections</h1>
+  <p class="byline">By Steve Hunt ACII TEP &middot; Last updated 10 November 2026</p>
+  <div class="answer">
+    <p>Every page on this site is by Steve Hunt ACII TEP, who has worked in UK financial services since 1980. This page explains where the answers come from, how they are backed up, and what has been corrected.</p>
+  </div>
+
+  <h2 id="backed-up">How each answer is backed up</h2>
+  <p>Beside each answer is a Sources line, and most pages end with a full list of their sources. Every source carries a label, so you can see what kind of authority stands behind each statement:</p>
+  <ul class="plain">
+    <li><strong>Law:</strong> Acts of Parliament and regulations, linked to the official text on legislation.gov.uk.</li>
+    <li><strong>HMRC:</strong> HMRC&rsquo;s manuals and guidance on GOV.UK: HMRC&rsquo;s published view of how it applies the tax law. It is guidance, not law.</li>
+    <li><strong>TPR, FCA, PRA, FSCS, ICO, DWP, HM Treasury, Bank of England, Ombudsman:</strong> what the regulators, government departments and other official bodies publish.</li>
+    <li><strong>GOV.UK:</strong> other government guidance, such as rate tables.</li>
+    <li><strong>MoneyHelper:</strong> the free guidance service backed by the government.</li>
+    <li><strong>Provider evidence:</strong> fee sheets, published terms and written confirmations from providers, with the date they were checked.</li>
+    <li><strong>Administrators:</strong> reports from the administrators of a firm that has gone into administration.</li>
+    <li><strong>Published source:</strong> figures credited to the publication that reported them.</li>
+    <li><strong>Steve&rsquo;s analysis:</strong> Steve&rsquo;s own arithmetic or reasoning, such as a worked example.</li>
+    <li><strong>Steve&rsquo;s view:</strong> Steve&rsquo;s own opinion, in his own words.</li>
+    <li><strong>This site:</strong> another page on this site that gives the detail.</li>
+  </ul>
+  <p>Where the law is clear, it comes first, linked to the official text.</p>
+
+  <h2 id="dates">Dates</h2>
+  <p>Each page shows the date it was last checked. That date changes only when the page has actually been reviewed. Tax rules change, so always check the date.</p>
+
+  <h2 id="blog">Steve&rsquo;s 2022 blog posts</h2>
+  <p>Steve&rsquo;s <a href="/blog/">blog posts</a> from 2022 are kept substantially as he wrote them, with typing errors corrected. Each one starts with a notice that it is an archived opinion piece, and ends with dated notes on what has changed since, with sources. Where the old wording could now mislead, a dated 2026 note sits beside it. One 2022 post was withdrawn.</p>
+
+  <h2 id="corrections">Corrections and updates</h2>
+  <h3>5 and 6 October 2026</h3>
+  <p>The site was rebuilt. Every page apart from the 2022 blog posts was written afresh, with a source for every answer.</p>
+  <ul class="plain">
+    <li>The FAQ was rewritten from scratch: 60 questions, each answer with its sources.</li>
+    <li>The provider fee comparison was refreshed against the latest fee sheets, price pages and written provider confirmations. The table shows where each figure comes from. It shows each provider's yearly fee and initial costs separately, lowest yearly fee first. The PDF at the old November 2022 address now holds the 2026 table.</li>
+    <li>New guides: how to set up a SSAS, loanbacks, who runs a SSAS, SSAS or SIPP, commercial property, contributions, and the disadvantages.</li>
+    <li>The SSAS Test was rebuilt. It now sends its answers to Steve, and it no longer says whether a business qualifies.</li>
+    <li>New About, Contact, Privacy policy and Cookie policy pages.</li>
+    <li>The 2022 blog posts gained a dated notice at the top and dated notes on what has changed. The November 2022 post on final salary compensation claims was withdrawn.</li>
+  </ul>
+  <h3>10 November 2026</h3>
+  <ul class="plain">
+    <li>The provider fee comparison now uses Highstone's October 2026 fee sheet. Its fees, and Mattioli Woods' property and loan fees, were checked again on 10 November 2026.</li>
+    <li>The About page and the fee comparison now say that a SSAS provider Steve introduces you to may pay him a fee.</li>
+  </ul>
+
+  <h2 id="mistake">Spotted a mistake?</h2>
+  <p>Please tell Steve, using the <a href="/contact/">contact form</a>, or email <a href="mailto:steve@my-ssas.co.uk">steve@my-ssas.co.uk</a>. Corrections are dated and listed on this page.</p>
+</main>
+
+<footer>
+  <div class="foot">
+    <p>My SSAS gives general information only. It is not advice or a personal recommendation. A SSAS is an occupational pension scheme, meaning a pension linked to an employer. It must be registered with HMRC to receive registered pension scheme tax treatment. If it has more than one member, it must also register with The Pensions Regulator. If you send an enquiry, it goes to Steve Hunt ACII TEP, who will contact you.</p>
+    <p>my-ssas.co.uk is run by Steve Hunt ACII TEP, Stable Cottage, Water Lane, South Witham, Grantham, Lincolnshire NG33 5PH. Email: steve@my-ssas.co.uk. Phone: 01733 602 071.</p>
+    <p><a href="/about/">About Steve</a> &middot; <a href="/blog/">Blog</a> &middot; <a href="/sources-and-corrections/">Sources and corrections</a> &middot; <a href="/privacy-policy/">Privacy policy</a> &middot; <a href="/cookie-policy/">Cookies</a></p>
+  </div>
+</footer>
+</body>
+</html>

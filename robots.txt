@@ -1,0 +1,6 @@
+# My SSAS, by Steve Hunt ACII TEP.
+# Everything on this site is public information. All crawlers are welcome, including AI assistants.
+User-agent: *
+Allow: /
+
+Sitemap: https://my-ssas.co.uk/sitemap.xml

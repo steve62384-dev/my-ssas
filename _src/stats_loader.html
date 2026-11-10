@@ -1,0 +1,13 @@
+<script>
+(function () {
+  try {
+    if (navigator.globalPrivacyControl) return;
+    if (localStorage.getItem('mySsasNoStats') === '1') return;
+    var s = document.createElement('script');
+    s.defer = true;
+    s.src = 'https://static.cloudflareinsights.com/beacon.min.js';
+    s.setAttribute('data-cf-beacon', '{"token": "CF_TOKEN"}');
+    document.head.appendChild(s);
+  } catch (e) {}
+})();
+</script>
